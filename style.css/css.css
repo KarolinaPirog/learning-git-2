@@ -1,11 +1,11 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #565654;
-    color: white;
+    color: orangered;
 }
 .title {
     text-align: center;
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
 .verse1, .verse2, .verse3 {
