@@ -1,0 +1,24 @@
+{
+  "name": "learning-git-2",
+  "version": "1.0.0",
+  "description": "https://karolinapirog.github.io/learning-git-2/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarolinaPirog/learning-git-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarolinaPirog/learning-git-2/issues"
+  },
+  "homepage": "https://github.com/KarolinaPirog/learning-git-2#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "nu-html-checker": "^0.1.0"
+  }
+}
