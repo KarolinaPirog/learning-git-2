@@ -1,15 +1,1 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #565654;
-    color: orangered;
-}
-.title {
-    text-align: center;
-    margin-top: 35px;
-    
-}
-
-.verse1, .verse2, .verse3 {
-    margin: 10px auto;
-    text-align: center;
-}
+.test { display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
